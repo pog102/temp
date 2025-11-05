@@ -1,0 +1,5 @@
+/home/pog/AR game/.utmp/RelWithDebInfo/2q2i44e1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/pog/AR game/.utmp/RelWithDebInfo/2q2i44e1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/pog/AR game/.utmp/RelWithDebInfo/2q2i44e1/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/home/pog/AR game/.utmp/RelWithDebInfo/2q2i44e1/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/home/pog/AR game/.utmp/RelWithDebInfo/2q2i44e1/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

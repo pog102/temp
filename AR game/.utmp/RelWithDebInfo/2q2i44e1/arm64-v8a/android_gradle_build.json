@@ -1,0 +1,39 @@
+{
+  "buildFiles": [
+    "/home/pog/AR game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt",
+    "/home/pog/AR game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/pog/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/pog/AR game/.utmp/RelWithDebInfo/2q2i44e1/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/pog/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/pog/AR game/.utmp/RelWithDebInfo/2q2i44e1/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "game",
+      "output": "/home/pog/AR game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2q2i44e1/obj/arm64-v8a/libgame.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/pog/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/pog/Unity/Hub/Editor/6000.2.6f2/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
